@@ -1,3 +1,10 @@
+# Learning Nested Loops
+(x, y)
+
+
+
+
+'''
 # Learning For Loops
 for item in ['Seiku', 'Beyage', 'Ebrahim']: # "[]" this right here defines a list.
     print(item)
@@ -20,7 +27,7 @@ total = 0
 for price in prices:
     total += price
 print(f"Total: {total}")
-
+'''
 
 
 
